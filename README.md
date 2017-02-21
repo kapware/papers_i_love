@@ -6,6 +6,7 @@
 | :white_medium_square: | [Can Programming Be Liberated from the von Neumann Style? A Functional Style and Its Algebra of Programs](https://www.cs.cmu.edu/~crary/819-f09/Backus78.pdf) |
 | :white_medium_square: | [Why Functional Programming Matters by J. Hughes](http://comjnl.oxfordjournals.org/content/32/2/98.full.pdf) |
 | :white_medium_square: | [The essence of functional programming  by Philip Wadler](https://wiki.ittc.ku.edu/lambda/images/1/12/Wadler_-_The_essence_of_functional_programming_(1992).pdf) |
+| :white_medium_square: | [Functional Geometry by Peter Henderson](http://eprints.soton.ac.uk/257577/1/funcgeo2.pdf) |
 
 
 ## A bit of history
