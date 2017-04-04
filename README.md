@@ -27,7 +27,7 @@
 - [ ]  [When is one thing equal to some other thing](http://www.math.harvard.edu/~mazur/preprints/when_is_one.pdf)
 - [ ]  [Comparison of Erlang Runtime System and Java Virtual Machine](http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf)
 - [ ]  [SOFTWARE ENGINEERING - Report on a conference sponsored by the NATO SCIENCE COMMITTEE](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF)
-- [ ]  [Exploiting Hardware Transactional Memory in Main-Memory Databases](https://db.in.tum.de/~leis/papers/HTM.pdf)
+- [X]  [Exploiting Hardware Transactional Memory in Main-Memory Databases](https://db.in.tum.de/~leis/papers/HTM.pdf)
 
 
 
