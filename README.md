@@ -28,6 +28,6 @@
 - [ ]  [Comparison of Erlang Runtime System and Java Virtual Machine](http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf)
 - [ ]  [SOFTWARE ENGINEERING - Report on a conference sponsored by the NATO SCIENCE COMMITTEE](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF)
 - [X]  [Exploiting Hardware Transactional Memory in Main-Memory Databases](https://db.in.tum.de/~leis/papers/HTM.pdf)
-
+- [ ]  [Personal Computer for Children of All Ages] http://history-computer.com/Library/Kay72.pdf
 
 
