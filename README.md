@@ -16,7 +16,7 @@
 - [ ]  [Propositions as Types by Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
 
 # Misc
-
+- [ ]  [Energy Efficiency across Programming Languages] (https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)
 - [ ]  [Purely Functional Data Structures by Chris Okasaki](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) 
 - [ ]  [Program Design by Calculation by J.N.Oliveira (draft)](http://www4.di.uminho.pt/~jno/ps/pdbc.pdf)
 - [ ]  [A Tutorial Implementation of a Dependently Typed Lambda Calculus](http://www.andres-loeh.de/LambdaPi/)
